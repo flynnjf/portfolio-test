@@ -3,9 +3,12 @@
 Data Analyst 
 ### Education
 
-DACSS, UMass 2027
-Bachelor of Arts in Public Policy University of Massachusetts, Amherst 
-Secondary major in Economics
+M.S. Data Analytics and Computational Social Science (DACSS) Expected May 2027 /
+University of Massachusetts, Amherst /
+
+B.A. Public Policy May 2026/
+University of Massachusetts, Amherst /
+Secondary major in Economics/
 
 ### Work Experience
 
