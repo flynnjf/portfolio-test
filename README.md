@@ -1,6 +1,6 @@
 
 ## Flynn Fatur
-
+Data Analyst 
 ### Education
 
 DACSS, UMass 2027
