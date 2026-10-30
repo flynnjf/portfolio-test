@@ -1,6 +1,6 @@
-title: Flynn Fatur
+#Flynn Fatur
 
-# Data Analyst
+## Data Analyst
 
 ### Education
 
