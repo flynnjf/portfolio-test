@@ -14,7 +14,7 @@ Secondary major in Economics/
 
 Research Assistant
 
-###Projects
-Undergraduate Thesis
-Independent Research
-DACSS Capstone Project
+### Projects
+Undergraduate Thesis - Campus Communities and Policing Trust /
+Independent Research (various) /
+DACSS Capstone Project /
