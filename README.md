@@ -1,6 +1,5 @@
-#Flynn Fatur
 
-## Data Analyst
+## Flynn Fatur
 
 ### Education
 
